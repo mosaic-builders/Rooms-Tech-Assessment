@@ -29,10 +29,10 @@ There are two approaches solving this problem. We request that for this assignme
 
 2. <ins> Option B (front-end-focused) </ins>: Implement a web-based tool that can i) render a 2D representation of the  XML model, and ii) then allow a user to specify the enclosed rooms manually via an interaction with the 2D representation.
 
-For both options, we are looking for a list of rooms for this input [model](https://github.com/mosaic-builders/Rooms-Tech-Assessment/blob/master/model.xml).
+For both options, we are looking for a list of rooms for this input [model](https://github.com/mosaic-builders/Rooms-Tech-Assessment/blob/master/model.xml). We've visualized this model for you in this [PDF] (https://github.com/mosaic-builders/Rooms-Tech-Assessment/blob/master/model.pdf)
 
 ## Useful Details:
-We’ve included definitions and explanations that might be helpful [here](https://github.com/mosaic-builders/Rooms-Tech-Assessment/blob/master/model-api.md). We've also visualized this model for you in this [PDF] (https://github.com/mosaic-builders/Rooms-Tech-Assessment/blob/master/model.pdf)
+We’ve included definitions and explanations that might be helpful [here](https://github.com/mosaic-builders/Rooms-Tech-Assessment/blob/master/model-api.md).
 
 ## Assumptions:
 
