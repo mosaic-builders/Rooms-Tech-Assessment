@@ -1,7 +1,5 @@
 # [Interview-Questions-Fall-2020](https://docs.google.com/document/d/1PvdwJD0eyS_xaZVGHVx5iyAz3tuv9dUA1lbZAkp7qp0/edit)
 
-This is the take home assignment to be used for [Sr. SW Engineer](https://docs.google.com/document/d/1jTgL-7gWunlWi3kHYiZVTB2C42nRmz-sRASqJ5968bM/edit) recruiting process.
-
 Thank you for your interest in Mosaic! We use this technical assessment to achieve two things:
 1. Allow you to showcase your technical skills.
 2. Give you a sense of some of the types of problems we are currently working on here at Mosaic.
@@ -24,7 +22,7 @@ We’ve developed an internal data model to represent a typical single family ho
 
 As you might expect, a typical house consists of `walls`, `doors`, and `windows`. We also have an entity to represent the two endpoints of a wall – we call these entities `corners`. Importantly, `corners` can be shared by multiple walls. We’ve provided more detailed descriptions of each entity below. For the purposes of this exercise, you should think of this model as a graph, with `corners` representing nodes, and `walls` representing edges between nodes. 
 
-The problem we would like you to attempt is to find _all enclosed rooms in a model_. More specifically, we will define a room as having walls on all sides. You can look at the [example model and output] (https://github.com/mosaic-builders/Rooms-Tech-Assessment/tree/master/example1) to get a better understanding.
+The problem we would like you to attempt is to find _all enclosed rooms in a model_. More specifically, we will define a room as having walls on all sides. You can look at the [example model and output](https://github.com/mosaic-builders/Rooms-Tech-Assessment/tree/master/example1) to get a better understanding.
 
 There are two approaches solving this problem. We request that for this assignment **_you pick one of the following options:_**
 1. <ins> Option A (algorithm-focused) </ins>: Implement a method that finds all enclosed rooms, as described above, when given an input XML model.
@@ -43,6 +41,8 @@ If you choose to implement <ins>Option A</ins> you should assume that:
 - Interior walls do not partition rooms
 
 If you choose to implement <ins>Option B</ins>:  you can ignore `doors`, and only render `corners` and `walls`.
+
+For either option, the order of corners for a room does not matter.
 
 ## Logistics:
 1. Download this repository.
