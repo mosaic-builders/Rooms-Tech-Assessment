@@ -18,7 +18,7 @@ Most of our codebase is written in Javascript, but we are language agnostic for 
 
 ## Problem
 
-We’ve developed an internal data model to represent a typical single family home. You can find an example of this model [here](https://github.com/mosaic-builders/Rooms-Tech-Assessment/blob/master/model.xml).
+We’ve developed an internal data model to represent a typical single family home. You can find an example of this model [here](https://github.com/mosaic-builders/Rooms-Tech-Assessment/tree/master/example1).
 
 As you might expect, a typical house consists of `walls`, `doors`, and `windows`. We also have an entity to represent the two endpoints of a wall – we call these entities `corners`. Importantly, `corners` can be shared by multiple walls. We’ve provided more detailed descriptions of each entity below. For the purposes of this exercise, you should think of this model as a graph, with `corners` representing nodes, and `walls` representing edges between nodes. 
 
@@ -29,7 +29,7 @@ There are two approaches solving this problem. We request that for this assignme
 
 2. <ins> Option B (front-end-focused) </ins>: Implement a web-based tool that can i) render a 2D representation of the  XML model, and ii) then allow a user to specify the enclosed rooms manually via an interaction with the 2D representation.
 
-For both options, we are looking for a list of rooms for a given input XML model.
+For both options, we are looking for a list of rooms for a given input XML [model](https://github.com/mosaic-builders/Rooms-Tech-Assessment/blob/master/model.xml).
 
 ## Useful Details:
 We’ve included definitions and explanations that might be helpful [here](https://github.com/mosaic-builders/Rooms-Tech-Assessment/blob/master/model-api.md). 
@@ -46,6 +46,6 @@ For either option, the order of corners for a room does not matter.
 
 ## Logistics:
 1. Download this repository.
-2. Look through the example model and solution in the `example1` folder to familiarize yourself with the problem.
+2. Look through the example model and solution in the [`example1` folder](https://github.com/mosaic-builders/Rooms-Tech-Assessment/tree/master/example1) to familiarize yourself with the problem.
 3. Implement your solution.
 4. When you’re done, ZIP your source code and email it to Max (max@mosaic.us) and Pranav (pranav@mosaic.us).
