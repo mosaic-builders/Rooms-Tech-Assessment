@@ -44,6 +44,8 @@ If you choose to implement <ins>Option A</ins> you should assume that:
 
 If you choose to implement <ins>Option B</ins>:  you can ignore `doors`, and only render `corners` and `walls`.
 
+For either option, the order of corners for a room does not matter.
+
 ## Logistics:
 1. Download this repository.
 2. Look through the example model and solution in the `example1` folder to familiarize yourself with the problem.
