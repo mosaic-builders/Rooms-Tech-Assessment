@@ -22,7 +22,7 @@ We’ve developed an internal data model to represent a typical single family ho
 
 As you might expect, a typical house consists of `walls`, `doors`, and `windows`. We also have an entity to represent the two endpoints of a wall – we call these entities `corners`. Importantly, `corners` can be shared by multiple walls. We’ve provided more detailed descriptions of each entity below. For the purposes of this exercise, you should think of this model as a graph, with `corners` representing nodes, and `walls` representing edges between nodes. 
 
-The problem we would like you to attempt is to find _all enclosed rooms in a model_. More specifically, we will define a room as having walls on all sides. You can look at the [example model and output] (https://github.com/mosaic-builders/Rooms-Tech-Assessment/tree/master/example1) to get a better understanding.
+The problem we would like you to attempt is to find _all enclosed rooms in a model_. More specifically, we will define a room as having walls on all sides. You can look at the [example model and output](https://github.com/mosaic-builders/Rooms-Tech-Assessment/tree/master/example1) to get a better understanding.
 
 There are two approaches solving this problem. We request that for this assignment **_you pick one of the following options:_**
 1. <ins> Option A (algorithm-focused) </ins>: Implement a method that finds all enclosed rooms, as described above, when given an input XML model.
