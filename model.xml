@@ -1,22 +1,22 @@
 <model>
-  <corner id="1" x="0" y="0" wallId="3"/>
-  <corner id="2" x="0" y="2984" wallId="7"/>
-  <corner id="6" x="0" y="9424" wallId="7"/>
-  <corner id="10" x="1832" y="2984" wallId="11"/>
-  <corner id="13" x="1832" y="9424" wallId="21"/>
-  <corner id="17" x="3752" y="2984" wallId="44"/>
-  <corner id="25" x="2792" y="9424" wallId="30"/>
-  <corner id="29" x="2792" y="12496" wallId="30"/>
-  <corner id="33" x="6544" y="12496" wallId="39"/>
-  <corner id="38" x="6544" y="2984" wallId="39"/>
-  <corner id="49" x="3752" y="1448" wallId="50"/>
-  <corner id="52" x="2792" y="1448" wallId="57"/>
-  <corner id="56" x="2792" y="0" wallId="59"/>
+  <corner id="1" x="0" y="0"/>
+  <corner id="2" x="0" y="2984"/>
+  <corner id="6" x="0" y="9424"/>
+  <corner id="10" x="1832" y="2984"/>
+  <corner id="13" x="1832" y="9424"/>
+  <corner id="17" x="3752" y="2984"/>
+  <corner id="25" x="2792" y="9424"/>
+  <corner id="29" x="2792" y="12496"/>
+  <corner id="33" x="6544" y="12496"/>
+  <corner id="38" x="6544" y="2984"/>
+  <corner id="49" x="3752" y="1448"/>
+  <corner id="52" x="2792" y="1448"/>
+  <corner id="56" x="2792" y="0"/>
   <wall id="3" height="1744" startCorner="1" endCorner="2" material="TWO_BY_SIX" isExterior="true" label="A">
-    <window start="1312" end="2080" bottomHeight="1140"/>
+    <window start="1312" end="2080" sillHeight="1140"/>
   </wall>
   <wall id="7" height="1744" startCorner="2" endCorner="6" material="TWO_BY_SIX" isExterior="true" label="B">
-    <window start="2792" end="3560" bottomHeight="1140"/>
+    <window start="2792" end="3560" sillHeight="1140"/>
   </wall>
   <wall id="11" height="1744" startCorner="2" endCorner="10" material="TWO_BY_SIX" isExterior="false" label="C"/>
   <wall id="14" height="1744" startCorner="10" endCorner="13" material="TWO_BY_SIX" isExterior="false" label="D">
@@ -26,36 +26,36 @@
     <door start="688" end="1296"/>
   </wall>
   <wall id="21" height="1744" startCorner="6" endCorner="13" material="TWO_BY_SIX" isExterior="true" label="F">
-    <window start="432" end="1008" bottomHeight="408"/>
-    <window start="1104" end="1680" bottomHeight="408"/>
+    <window start="432" end="1008" sillHeight="408"/>
+    <window start="1104" end="1680" sillHeight="408"/>
   </wall>
   <wall id="26" height="1744" startCorner="13" endCorner="25" material="TWO_BY_SIX" isExterior="true" label="G">
     <door start="216" end="824"/>
   </wall>
   <wall id="30" height="1744" startCorner="25" endCorner="29" material="TWO_BY_SIX" isExterior="true" label="H">
-    <window start="152" end="728" bottomHeight="408"/>
+    <window start="152" end="728" sillHeight="408"/>
   </wall>
   <wall id="34" height="1744" startCorner="29" endCorner="33" material="TWO_BY_SIX" isExterior="true" label="I">
-    <window start="200" end="776" bottomHeight="128"/>
-    <window start="2496" end="3072" bottomHeight="128"/>
+    <window start="200" end="776" sillHeight="128"/>
+    <window start="2496" end="3072" sillHeight="128"/>
   </wall>
   <wall id="39" height="2720" startCorner="33" endCorner="38" material="TWO_BY_SIX" isExterior="true" label="J">
-    <window start="4552" end="5128" bottomHeight="1984"/>
-    <window start="5240" end="6392" bottomHeight="1984"/>
-    <window start="7784" end="8296" bottomHeight="1984"/>
+    <window start="4552" end="5128" sillHeight="1984"/>
+    <window start="5240" end="6392" sillHeight="1984"/>
+    <window start="7784" end="8296" sillHeight="1984"/>
   </wall>
   <wall id="44" height="1744" startCorner="38" endCorner="17" material="TWO_BY_SIX" isExterior="true" label="K">
-    <window start="48" end="720" bottomHeight="384"/>
-    <window start="816" end="1488" bottomHeight="384"/>
-    <window start="1584" end="2256" bottomHeight="384"/>
+    <window start="48" end="720" sillHeight="384"/>
+    <window start="816" end="1488" sillHeight="384"/>
+    <window start="1584" end="2256" sillHeight="384"/>
   </wall>
   <wall id="50" height="1744" startCorner="17" endCorner="49" material="TWO_BY_SIX" isExterior="true" label="L"/>
   <wall id="53" height="1744" startCorner="49" endCorner="52" material="TWO_BY_SIX" isExterior="true" label="M">
-    <window start="48" end="528" bottomHeight="576"/>
+    <window start="48" end="528" sillHeight="576"/>
   </wall>
   <wall id="57" height="1744" startCorner="52" endCorner="56" material="TWO_BY_SIX" isExterior="true" label="N"/>
   <wall id="59" height="1744" startCorner="56" endCorner="1" material="TWO_BY_SIX" isExterior="true" label="O">
-    <window start="184" end="760" bottomHeight="408"/>
-    <window start="1968" end="2544" bottomHeight="408"/>
+    <window start="184" end="760" sillHeight="408"/>
+    <window start="1968" end="2544" sillHeight="408"/>
   </wall>
 </model>
