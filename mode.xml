@@ -1,0 +1,165 @@
+<model>
+  <corner id="1" x="0" y="0" wallId="4"/>
+  <corner id="3" x="0" y="9992" wallId="4"/>
+  <corner id="6" x="0" y="2256" wallId="4"/>
+  <corner id="7" x="2352" y="2256" wallId="8"/>
+  <corner id="10" x="488" y="2256" wallId="8"/>
+  <corner id="11" x="488" y="0" wallId="185"/>
+  <corner id="16" x="2352" y="7632" wallId="17"/>
+  <corner id="19" x="2352" y="2984" wallId="17"/>
+  <corner id="20" x="1624" y="2984" wallId="21"/>
+  <corner id="23" x="1624" y="3968" wallId="24"/>
+  <corner id="27" x="2352" y="4040" wallId="17"/>
+  <corner id="28" x="2352" y="4384" wallId="17"/>
+  <corner id="29" x="2352" y="5132" wallId="17"/>
+  <corner id="31" x="2352" y="7172" wallId="17"/>
+  <corner id="33" x="0" y="3624" wallId="4"/>
+  <corner id="34" x="472" y="3624" wallId="35"/>
+  <corner id="37" x="472" y="4040" wallId="41"/>
+  <corner id="40" x="0" y="4040" wallId="4"/>
+  <corner id="43" x="0" y="4116" wallId="4"/>
+  <corner id="44" x="472" y="4116" wallId="45"/>
+  <corner id="47" x="0" y="5132" wallId="4"/>
+  <corner id="50" x="0" y="7172" wallId="4"/>
+  <corner id="53" x="1184" y="7172" wallId="51"/>
+  <corner id="55" x="0" y="7628" wallId="4"/>
+  <corner id="56" x="2352" y="7628" wallId=""/>
+  <corner id="59" x="2216" y="7628" wallId="57"/>
+  <corner id="60" x="2216" y="9992" wallId="81"/>
+  <corner id="63" x="2216" y="8324" wallId="61"/>
+  <corner id="64" x="2336" y="8324" wallId="65"/>
+  <corner id="67" x="2976" y="8324" wallId="68"/>
+  <corner id="71" x="1184" y="7628" wallId="57"/>
+  <corner id="80" x="2976" y="9992" wallId="87"/>
+  <corner id="86" x="2976" y="12712" wallId="87"/>
+  <corner id="90" x="6328" y="12712" wallId="107"/>
+  <corner id="96" x="4032" y="12712" wallId="91"/>
+  <corner id="97" x="4032" y="12456" wallId="98"/>
+  <corner id="100" x="5272" y="12456" wallId="104"/>
+  <corner id="103" x="5272" y="12624" wallId="104"/>
+  <corner id="106" x="6328" y="4384" wallId="107"/>
+  <corner id="109" x="6328" y="12232" wallId="107"/>
+  <corner id="110" x="8864" y="12232" wallId="115"/>
+  <corner id="114" x="8864" y="5184" wallId="115"/>
+  <corner id="117" x="8864" y="9948" wallId="115"/>
+  <corner id="119" x="6328" y="5184" wallId="107"/>
+  <corner id="123" x="6888" y="5184" wallId="120"/>
+  <corner id="124" x="6888" y="5664" wallId="125"/>
+  <corner id="128" x="6328" y="9456" wallId="107"/>
+  <corner id="129" x="3672" y="9456" wallId="139"/>
+  <corner id="132" x="5248" y="9456" wallId="130"/>
+  <corner id="133" x="5248" y="8312" wallId="154"/>
+  <corner id="138" x="3672" y="8872" wallId="139"/>
+  <corner id="141" x="3672" y="8200" wallId="142"/>
+  <corner id="145" x="4624" y="8200" wallId="146"/>
+  <corner id="148" x="4128" y="8200" wallId="146"/>
+  <corner id="149" x="4128" y="8872" wallId="150"/>
+  <corner id="152" x="4128" y="8312" wallId="150"/>
+  <corner id="153" x="6328" y="8312" wallId="107"/>
+  <corner id="173" x="3768" y="4384" wallId="165"/>
+  <corner id="174" x="3768" y="2464" wallId="175"/>
+  <corner id="177" x="3096" y="2464" wallId="182"/>
+  <corner id="181" x="3096" y="0" wallId="185"/>
+  <wall id="4" height="1744" startCorner="1" endCorner="3" material="TWO_BY_SIX" isExterior="true">
+    <window start="2600" end="3368" bottomHeight="1140"/>
+    <window start="4288" end="5056" bottomHeight="1140"/>
+    <window start="5624" end="6776" bottomHeight="948"/>
+    <window start="8272" end="9424" bottomHeight="1140"/>
+  </wall>
+  <wall id="8" height="1744" startCorner="6" endCorner="7" material="TWO_BY_FOUR" isExterior="false">
+    <door start="536" end="1016"/>
+  </wall>
+  <wall id="12" height="1744" startCorner="10" endCorner="11" material="TWO_BY_FOUR" isExterior="false">
+    <door start="504" end="1656"/>
+  </wall>
+  <wall id="17" height="1744" startCorner="7" endCorner="16" material="TWO_BY_FOUR" isExterior="false">
+    <door start="2328" end="2808"/>
+    <door start="3384" end="4376"/>
+  </wall>
+  <wall id="21" height="1744" startCorner="19" endCorner="20" material="TWO_BY_FOUR" isExterior="false"/>
+  <wall id="24" height="1744" startCorner="20" endCorner="23" material="TWO_BY_FOUR" isExterior="false">
+    <door start="48" end="528"/>
+  </wall>
+  <wall id="35" height="1744" startCorner="33" endCorner="34" material="TWO_BY_FOUR" isExterior="false"/>
+  <wall id="38" height="1744" startCorner="34" endCorner="37" material="TWO_BY_FOUR" isExterior="false"/>
+  <wall id="41" height="1744" startCorner="40" endCorner="27" material="TWO_BY_SIX" isExterior="false"/>
+  <wall id="45" height="1744" startCorner="43" endCorner="44" material="TWO_BY_FOUR" isExterior="false"/>
+  <wall id="48" height="1744" startCorner="47" endCorner="29" material="TWO_BY_FOUR" isExterior="false"/>
+  <wall id="51" height="1744" startCorner="50" endCorner="31" material="TWO_BY_FOUR" isExterior="false">
+    <door start="1248" end="2208"/>
+  </wall>
+  <wall id="57" height="1744" startCorner="55" endCorner="56" material="TWO_BY_FOUR" isExterior="false">
+    <door start="72" end="1032"/>
+  </wall>
+  <wall id="61" height="1744" startCorner="59" endCorner="60" material="TWO_BY_FOUR" isExterior="false">
+    <door start="48" end="560"/>
+  </wall>
+  <wall id="65" height="1744" startCorner="63" endCorner="64" material="TWO_BY_SIX" isExterior="false"/>
+  <wall id="68" height="768" startCorner="64" endCorner="67" material="TWO_BY_SIX" isExterior="false"/>
+  <wall id="72" height="1744" startCorner="71" endCorner="53" material="TWO_BY_FOUR" isExterior="false"/>
+  <wall id="81" height="1744" startCorner="3" endCorner="80" material="TWO_BY_SIX" isExterior="true">
+    <door start="2232" end="2840"/>
+    <window start="432" end="1008" bottomHeight="408"/>
+    <window start="1104" end="1680" bottomHeight="408"/>
+  </wall>
+  <wall id="87" height="1744" startCorner="80" endCorner="86" material="TWO_BY_SIX" isExterior="true">
+    <window start="152" end="728" bottomHeight="408"/>
+  </wall>
+  <wall id="91" height="1744" startCorner="86" endCorner="90" material="TWO_BY_SIX" isExterior="true">
+    <door start="1056" end="2208"/>
+    <window start="200" end="776" bottomHeight="128"/>
+    <window start="2496" end="3072" bottomHeight="128"/>
+  </wall>
+  <wall id="98" height="1744" startCorner="96" endCorner="97" material="TWO_BY_SIX" isExterior="false"/>
+  <wall id="101" height="1744" startCorner="97" endCorner="100" material="TWO_BY_SIX" isExterior="false"/>
+  <wall id="104" height="1744" startCorner="100" endCorner="103" material="TWO_BY_SIX" isExterior="false"/>
+  <wall id="107" height="2720" startCorner="90" endCorner="106" material="TWO_BY_SIX" isExterior="true">
+    <door start="3384" end="3928"/>
+    <window start="672" end="2384" bottomHeight="1984"/>
+    <window start="4552" end="5128" bottomHeight="1984"/>
+    <window start="5240" end="6392" bottomHeight="1984"/>
+    <window start="6512" end="7664" bottomHeight="1984"/>
+    <window start="7784" end="8296" bottomHeight="1984"/>
+  </wall>
+  <wall id="111" height="1432" startCorner="109" endCorner="110" material="TWO_BY_FOUR" isExterior="true">
+    <door start="352" end="2112"/>
+  </wall>
+  <wall id="115" height="1360" startCorner="110" endCorner="114" material="TWO_BY_FOUR" isExterior="true"/>
+  <wall id="120" height="1360" startCorner="114" endCorner="119" material="TWO_BY_FOUR" isExterior="true">
+    <door start="48" end="656"/>
+  </wall>
+  <wall id="125" height="1552" startCorner="123" endCorner="124" material="TWO_BY_FOUR" isExterior="false"/>
+  <wall id="130" height="1744" startCorner="128" endCorner="129" material="TWO_BY_FOUR" isExterior="false">
+    <door start="432" end="944"/>
+  </wall>
+  <wall id="134" height="1744" startCorner="132" endCorner="133" material="TWO_BY_FOUR" isExterior="false">
+    <door start="48" end="592"/>
+  </wall>
+  <wall id="139" height="1744" startCorner="129" endCorner="138" material="TWO_BY_SIX" isExterior="false"/>
+  <wall id="142" height="1744" startCorner="138" endCorner="141" material="TWO_BY_FOUR" isExterior="false">
+    <door start="48" end="528"/>
+  </wall>
+  <wall id="146" height="1744" startCorner="141" endCorner="145" material="TWO_BY_FOUR" isExterior="false"/>
+  <wall id="150" height="1744" startCorner="148" endCorner="149" material="TWO_BY_FOUR" isExterior="false"/>
+  <wall id="154" height="1744" startCorner="152" endCorner="153" material="TWO_BY_FOUR" isExterior="false">
+    <door start="1184" end="1696"/>
+  </wall>
+  <wall id="157" height="1744" startCorner="149" endCorner="138" material="TWO_BY_FOUR" isExterior="false"/>
+  <wall id="165" height="1744" startCorner="106" endCorner="28" material="TWO_BY_SIX" isExterior="true">
+    <door start="3312" end="3856"/>
+    <window start="48" end="720" bottomHeight="384"/>
+    <window start="816" end="1488" bottomHeight="384"/>
+    <window start="1584" end="2256" bottomHeight="384"/>
+  </wall>
+  <wall id="175" height="1744" startCorner="173" endCorner="174" material="TWO_BY_SIX" isExterior="true"/>
+  <wall id="178" height="1744" startCorner="174" endCorner="177" material="TWO_BY_SIX" isExterior="true">
+    <window start="48" end="528" bottomHeight="576"/>
+  </wall>
+  <wall id="182" height="1744" startCorner="177" endCorner="181" material="TWO_BY_SIX" isExterior="true">
+    <door start="784" end="1968"/>
+  </wall>
+  <wall id="185" height="1744" startCorner="181" endCorner="1" material="TWO_BY_SIX" isExterior="true">
+    <window start="184" end="760" bottomHeight="408"/>
+    <window start="1968" end="2544" bottomHeight="408"/>
+  </wall>
+</model>
