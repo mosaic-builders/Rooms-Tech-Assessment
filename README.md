@@ -1,6 +1,6 @@
 # [Interview-Questions-Fall-2020](https://docs.google.com/document/d/1PvdwJD0eyS_xaZVGHVx5iyAz3tuv9dUA1lbZAkp7qp0/edit)
 
-This is the draft of one of the take home assignments to be used for  [Sr. SW Engineer](https://docs.google.com/document/d/1jTgL-7gWunlWi3kHYiZVTB2C42nRmz-sRASqJ5968bM/edit) recruiting process.
+This is the take home assignment to be used for [Sr. SW Engineer](https://docs.google.com/document/d/1jTgL-7gWunlWi3kHYiZVTB2C42nRmz-sRASqJ5968bM/edit) recruiting process.
 
 Thank you for your interest in Mosaic! We use this technical assessment to achieve two things:
 1. Allow you to showcase your technical skills.
