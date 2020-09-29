@@ -2,7 +2,7 @@
 
 ## Units
 Before diving into specific entities, its useful to understand how we represent physical distance in our `<model>`.
-In all `<model>` we create, the basic unit of distance is 1/16th of an inch. We represent this distance as an integer.
+In all `models` we create, the basic unit of distance is 1/16th of an inch. We represent this distance as an integer.
 In other words, `x=16` represents `1 inch`, `x=256` represents `16 inches`.
 
 ## `<model>`
