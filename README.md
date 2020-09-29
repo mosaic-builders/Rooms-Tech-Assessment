@@ -48,4 +48,6 @@ For either option, the order of corners for a room does not matter.
 1. Download this repository.
 2. Look through the example model and solution in the [`example1` folder](https://github.com/mosaic-builders/Rooms-Tech-Assessment/tree/master/example1) to familiarize yourself with the problem.
 3. Implement your solution.
-4. When you’re done, ZIP your source code and email it to Max (max@mosaic.us) and Pranav (pranav@mosaic.us).
+4. When you’re done, ZIP your source code and email it to Max (max@mosaic.us) and Pranav (pranav@mosaic.us). If you would like us to run your code, please also include instructions on how to install or setup, and execute your code. 
+
+Thank you very much for your interest once again!
