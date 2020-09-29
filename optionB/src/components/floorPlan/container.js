@@ -37,9 +37,7 @@ const Container = () => {
   const [model, setModel] = useState({ corner: [], wall: [] });
 
   useEffect(() => {
-    getModel().then((mod) => {
-      setModel(mod)
-    });
+    getModel().then(setModel);
   }, []);
 
   const normalCorners = model.corner
