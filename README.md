@@ -1,4 +1,4 @@
-# [Interview-Questions-Fall-2020](https://docs.google.com/document/d/1PvdwJD0eyS_xaZVGHVx5iyAz3tuv9dUA1lbZAkp7qp0/edit)
+# Interview-Questions-Fall-2020
 
 Thank you for your interest in Mosaic! We use this technical assessment to achieve two things:
 1. Allow you to showcase your technical skills.
