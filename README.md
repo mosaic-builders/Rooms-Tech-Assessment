@@ -38,7 +38,7 @@ Here are a few more details in order to provide you with a place to start:
 
 <ins>Option A:</ins> To simplify things, you may assume that our drafters create models by performing a virtual “walk” of the floorplan drawing, traversing walls of each room starting at a particular corner, and ensuring that all the rooms are connected. Thus, one can model floor plans as a directed graph and take advantage of the graph’s structure to find rooms algorithmically.
 
-<ins>Option B:</ins> If you choose to go with Option B, we’ve created an optional [starter code kit](https://github.com/mosaic-builders/Rooms-Tech-Assessment/tree/master/optionB) that you can use to jumpstart your solution. Our starter kit provides you with (a) a React app that renders the model for you, and (b) a HTML5 Canvas rendering of the model. These code kits are completely optional, so please feel free to use them if you’d like! 
+<ins>Option B:</ins> If you choose to go with Option B, we’ve created an optional [starter code kit](https://github.com/mosaic-builders/Rooms-Tech-Assessment/tree/master/optionB) that you can use to jumpstart your solution. Our starter kit provides you with (a) a React app that renders the model for you, and (b) a HTML5 Canvas rendering of the model. These code kits are completely optional, and you can use either of these. Please feel free to use them if you’d like! 
 
 
 ## Useful Details:
