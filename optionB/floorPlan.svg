@@ -1,0 +1,424 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" viewBox="-96 -96 6736 12600">
+  <g id="SvgjsG1617" class="plates">
+    <path
+      id="SvgjsPath1618"
+      d="M44,-44 L44.000000000000185,2940 L-43.999999999999815,2940 L-44,-44Z"
+      data-id="48"
+      data-turtle-start-line="52"
+      transform="matrix(1,0,0,1,0,0)"
+      stroke-linecap="square"
+      stroke="#000011"
+      stroke-width="7"
+      fill="transparent"
+      class="foo"></path>
+    <text
+      id="SvgjsText1619"
+      font-family="Helvetica"
+      fill="#000011"
+      font-size="72"
+      font-weight="bold"
+      size="72"
+      family="Helvetica"
+      weight="bold"
+      x="-110.30468749999991"
+      y="1475.931640625"
+      transform="matrix(6.123233995736766e-17,1,-1,6.123233995736766e-17,1548,1347.9999999999998)"
+      svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">A - 15' 6 1/2&quot;</text>
+    <path
+      id="SvgjsPath1621"
+      d="M44,2940 L44.00000000000011,4668 L-43.99999999999989,4668 L-44,2940Z"
+      data-id="65"
+      data-turtle-start-line="59"
+      transform="matrix(1,0,0,1,0,0)"
+      stroke-linecap="square"
+      stroke="#000011"
+      stroke-width="7"
+      fill="transparent"
+      class="foo"></path>
+    <text
+      id="SvgjsText1622"
+      font-family="Helvetica"
+      fill="#000011"
+      font-size="72"
+      font-weight="bold"
+      size="72"
+      family="Helvetica"
+      weight="bold"
+      x="-26.527343749999943"
+      y="3831.931640625"
+      transform="matrix(6.123233995736766e-17,1,-1,6.123233995736766e-17,3904,3703.9999999999995)"
+      svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">B - 9' 0&quot;</text>
+    <path
+      id="SvgjsPath1624"
+      d="M43.99999999999999,2939.9999999999995 L3708,2939.9999999999995 L3708,3027.9999999999995 L43.99999999999999,3027.9999999999995Z"
+      data-id="75"
+      data-turtle-start-line="67"
+      transform="matrix(1,0,0,1,0,0)"
+      stroke-linecap="square"
+      stroke="#000011"
+      stroke-width="7"
+      fill="transparent"
+      class="foo"></path>
+    <text
+      id="SvgjsText1625"
+      font-family="Helvetica"
+      fill="#000011"
+      font-size="72"
+      font-weight="bold"
+      size="72"
+      family="Helvetica"
+      weight="bold"
+      x="1729.50390625"
+      y="2911.9316406249995"
+      transform="matrix(1,0,0,1,0,0)"
+      svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">C - 19' 1&quot;</text>
+    <path
+      id="SvgjsPath1627"
+      d="M44,4668 L44.00000000000029,9380 L-43.99999999999971,9380 L-44,4668Z"
+      data-id="94"
+      data-turtle-start-line="73"
+      transform="matrix(1,0,0,1,0,0)"
+      stroke-linecap="square"
+      stroke="#000011"
+      stroke-width="7"
+      fill="transparent"
+      class="foo"></path>
+    <text
+      id="SvgjsText1628"
+      font-family="Helvetica"
+      fill="#000011"
+      font-size="72"
+      font-weight="bold"
+      size="72"
+      family="Helvetica"
+      weight="bold"
+      x="-113.76757812499986"
+      y="7051.931640625"
+      transform="matrix(6.123233995736766e-17,1,-1,6.123233995736766e-17,7124,6923.999999999999)"
+      svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">D - 24' 6 1/2&quot;</text>
+    <path id="SvgjsPath1630" d="M44,9292 L1876,9292 L1876,9380 L44,9380Z" data-id="120" data-turtle-start-line="77" transform="matrix(1,0,0,1,0,0)" stroke-linecap="square" stroke="#000011" stroke-width="7" fill="transparent" class="foo"></path>
+    <text
+      id="SvgjsText1631"
+      font-family="Helvetica"
+      fill="#000011"
+      font-size="72"
+      font-weight="bold"
+      size="72"
+      family="Helvetica"
+      weight="bold"
+      x="773.0390625"
+      y="9263.931640625"
+      transform="matrix(1,0,0,1,0,0)"
+      svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">E - 9' 6 1/2&quot;</text>
+    <path
+      id="SvgjsPath1633"
+      d="M1788.0000000000002,9292 L1788.0000000000005,4580 L1876.0000000000005,4580 L1876.0000000000002,9292Z"
+      data-id="132"
+      data-turtle-start-line="81"
+      transform="matrix(1,0,0,1,0,0)"
+      stroke-linecap="square"
+      stroke="#000011"
+      stroke-width="7"
+      fill="transparent"
+      class="foo"></path>
+    <text
+      id="SvgjsText1634"
+      font-family="Helvetica"
+      fill="#000011"
+      font-size="72"
+      font-weight="bold"
+      size="72"
+      family="Helvetica"
+      weight="bold"
+      x="1525.8964843750005"
+      y="6963.931640625"
+      transform="matrix(6.123233995736766e-17,1,-1,6.123233995736766e-17,8668,5203.999999999999)"
+      svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">F - 24' 6 1/2&quot;</text>
+    <path
+      id="SvgjsPath1636"
+      d="M1788.0000000000005,4668.000000000002 L44.000000000000455,4668.000000000002 L44.000000000000455,4580.000000000002 L1788.0000000000005,4580.000000000002Z"
+      data-id="158"
+      data-turtle-start-line="83"
+      transform="matrix(1,0,0,1,0,0)"
+      stroke-linecap="square"
+      stroke="#000011"
+      stroke-width="7"
+      fill="transparent"
+      class="foo"></path>
+    <text
+      id="SvgjsText1637"
+      font-family="Helvetica"
+      fill="#000011"
+      font-size="72"
+      font-weight="bold"
+      size="72"
+      family="Helvetica"
+      weight="bold"
+      x="786.5898437500005"
+      y="4751.931640625002"
+      transform="matrix(1,0,0,1,0,0)"
+      svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">G - 9' 1&quot;</text>
+    <path
+      id="SvgjsPath1639"
+      d="M1876.0000000000002,9292 L2748,9292 L2748,9380 L1876.0000000000002,9380Z"
+      data-id="168"
+      data-turtle-start-line="86"
+      transform="matrix(1,0,0,1,0,0)"
+      stroke-linecap="square"
+      stroke="#000011"
+      stroke-width="7"
+      fill="transparent"
+      class="foo"></path>
+    <text
+      id="SvgjsText1640"
+      font-family="Helvetica"
+      fill="#000011"
+      font-size="72"
+      font-weight="bold"
+      size="72"
+      family="Helvetica"
+      weight="bold"
+      x="2118.5"
+      y="9263.931640625"
+      transform="matrix(1,0,0,1,0,0)"
+      svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">H - 4' 6 1/2&quot;</text>
+    <path id="SvgjsPath1642" d="M2836,9292 L2836,12452 L2748,12452 L2748,9292Z" data-id="175" data-turtle-start-line="90" transform="matrix(1,0,0,1,0,0)" stroke-linecap="square" stroke="#000011" stroke-width="7" fill="transparent" class="foo"></path>
+    <text
+      id="SvgjsText1643"
+      font-family="Helvetica"
+      fill="#000011"
+      font-size="72"
+      font-weight="bold"
+      size="72"
+      family="Helvetica"
+      weight="bold"
+      x="2694.439453125"
+      y="10899.931640625"
+      transform="matrix(6.123233995736766e-17,1,-1,6.123233995736766e-17,13764,7980)"
+      svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">I - 16' 5 1/2&quot;</text>
+    <path id="SvgjsPath1645" d="M2836,12364 L6500,12364 L6500,12452 L2836,12452Z" data-id="195" data-turtle-start-line="97" transform="matrix(1,0,0,1,0,0)" stroke-linecap="square" stroke="#000011" stroke-width="7" fill="transparent" class="foo"></path>
+    <text
+      id="SvgjsText1646"
+      font-family="Helvetica"
+      fill="#000011"
+      font-size="72"
+      font-weight="bold"
+      size="72"
+      family="Helvetica"
+      weight="bold"
+      x="4534.599609375"
+      y="12335.931640625"
+      transform="matrix(1,0,0,1,0,0)"
+      svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">J - 19' 1&quot;</text>
+    <path
+      id="SvgjsPath1648"
+      d="M6500,12451.999999999998 L6500.000000000001,2939.999999999998 L6588.000000000001,2939.999999999998 L6588,12451.999999999998Z"
+      data-id="215"
+      data-turtle-start-line="102"
+      transform="matrix(1,0,0,1,0,0)"
+      stroke-linecap="square"
+      stroke="#000011"
+      stroke-width="7"
+      fill="transparent"
+      class="foo"></path>
+    <text
+      id="SvgjsText1649"
+      font-family="Helvetica"
+      fill="#000011"
+      font-size="72"
+      font-weight="bold"
+      size="72"
+      family="Helvetica"
+      weight="bold"
+      x="6234.380859375001"
+      y="7723.931640624998"
+      transform="matrix(6.123233995736766e-17,1,-1,6.123233995736766e-17,14140,1251.9999999999964)"
+      svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">K - 49' 6 1/2&quot;</text>
+    <path
+      id="SvgjsPath1651"
+      d="M6500,3028 L3708,3028.0000000000005 L3708,2940.0000000000005 L6500,2940Z"
+      data-id="267"
+      data-turtle-start-line="113"
+      transform="matrix(1,0,0,1,0,0)"
+      stroke-linecap="square"
+      stroke="#000011"
+      stroke-width="7"
+      fill="transparent"
+      class="foo"></path>
+    <text
+      id="SvgjsText1652"
+      font-family="Helvetica"
+      fill="#000011"
+      font-size="72"
+      font-weight="bold"
+      size="72"
+      family="Helvetica"
+      weight="bold"
+      x="4897.791015625"
+      y="3111.931640625"
+      transform="matrix(1,0,0,1,0,0)"
+      svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">L - 14' 6 1/2&quot;</text>
+    <path id="SvgjsPath1654" d="M3708,2940 L3708,1404 L3796,1404 L3796,2940Z" data-id="283" data-turtle-start-line="121" transform="matrix(1,0,0,1,0,0)" stroke-linecap="square" stroke="#000011" stroke-width="7" fill="transparent" class="foo"></path>
+    <text
+      id="SvgjsText1655"
+      font-family="Helvetica"
+      fill="#000011"
+      font-size="72"
+      font-weight="bold"
+      size="72"
+      family="Helvetica"
+      weight="bold"
+      x="3516.296875"
+      y="2199.931640625"
+      transform="matrix(6.123233995736766e-17,1,-1,6.123233995736766e-17,5824,-1480)"
+      svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">M - 8' 0&quot;</text>
+    <path
+      id="SvgjsPath1657"
+      d="M3708.0000000000005,1492 L2836.0000000000005,1492 L2836.0000000000005,1404 L3708.0000000000005,1404Z"
+      data-id="295"
+      data-turtle-start-line="123"
+      transform="matrix(1,0,0,1,0,0)"
+      stroke-linecap="square"
+      stroke="#000011"
+      stroke-width="7"
+      fill="transparent"
+      class="foo"></path>
+    <text
+      id="SvgjsText1658"
+      font-family="Helvetica"
+      fill="#000011"
+      font-size="72"
+      font-weight="bold"
+      size="72"
+      family="Helvetica"
+      weight="bold"
+      x="3077.9199218750005"
+      y="1575.931640625"
+      transform="matrix(1,0,0,1,0,0)"
+      svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">N - 4' 6 1/2&quot;</text>
+    <path
+      id="SvgjsPath1660"
+      d="M2748,1492.0000000000002 L2748,44.00000000000023 L2836,44.00000000000023 L2836,1492.0000000000002Z"
+      data-id="303"
+      data-turtle-start-line="125"
+      transform="matrix(1,0,0,1,0,0)"
+      stroke-linecap="square"
+      stroke="#000011"
+      stroke-width="7"
+      fill="transparent"
+      class="foo"></path>
+    <text
+      id="SvgjsText1661"
+      font-family="Helvetica"
+      fill="#000011"
+      font-size="72"
+      font-weight="bold"
+      size="72"
+      family="Helvetica"
+      weight="bold"
+      x="2497.0234375"
+      y="795.9316406250002"
+      transform="matrix(6.123233995736766e-17,1,-1,6.123233995736766e-17,3460,-1923.9999999999998)"
+      svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">O - 7' 6 1/2&quot;</text>
+    <path
+      id="SvgjsPath1663"
+      d="M2836,43.99999999999999 L44,44.000000000000334 L44,-43.999999999999666 L2836,-44.00000000000001Z"
+      data-id="314"
+      data-turtle-start-line="129"
+      transform="matrix(1,0,0,1,0,0)"
+      stroke-linecap="square"
+      stroke="#000011"
+      stroke-width="7"
+      fill="transparent"
+      class="foo"></path>
+    <text
+      id="SvgjsText1664"
+      font-family="Helvetica"
+      fill="#000011"
+      font-size="72"
+      font-weight="bold"
+      size="72"
+      family="Helvetica"
+      weight="bold"
+      x="1230.802734375"
+      y="127.93164062500017"
+      transform="matrix(1,0,0,1,0,0)"
+      svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">P - 14' 6 1/2&quot;</text>
+  </g>
+  <g id="SvgjsG1620" class="openings-wall-3"></g>
+  <g id="SvgjsG1623" class="openings-wall-6"></g>
+  <g id="SvgjsG1626" class="openings-wall-9"></g>
+  <g id="SvgjsG1629" class="openings-wall-12"></g>
+  <g id="SvgjsG1632" class="openings-wall-15"></g>
+  <g id="SvgjsG1635" class="openings-wall-18"></g>
+  <g id="SvgjsG1638" class="openings-wall-20"></g>
+  <g id="SvgjsG1641" class="openings-wall-23"></g>
+  <g id="SvgjsG1644" class="openings-wall-26"></g>
+  <g id="SvgjsG1647" class="openings-wall-29"></g>
+  <g id="SvgjsG1650" class="openings-wall-32"></g>
+  <g id="SvgjsG1653" class="openings-wall-34"></g>
+  <g id="SvgjsG1656" class="openings-wall-37"></g>
+  <g id="SvgjsG1659" class="openings-wall-40"></g>
+  <g id="SvgjsG1662" class="openings-wall-43"></g>
+  <g id="SvgjsG1665" class="openings-wall-45"></g>
+  <g id="SvgjsG1666" class="corners">
+    <line id="SvgjsLine1667" x1="-96" y1="-96" x2="96" y2="96" stroke-linecap="square" stroke="blue" stroke-width="12"></line>
+    <line id="SvgjsLine1668" x1="96" y1="-96" x2="-96" y2="96" stroke-linecap="square" stroke="blue" stroke-width="12"></line>
+    <circle id="SvgjsCircle1669" r="96" cx="0" cy="0" stroke-linecap="square" stroke="blue" stroke-width="12" fill-opacity="0" data-id="1"></circle>
+    <text id="SvgjsText1670" font-family="Helvetica" fill="#000011" font-size="80" size="80" family="Helvetica" x="-22.87109375" y="-72.96484375" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+      <tspan id="SvgjsTspan1671" dy="104" x="-22.87109375" svgjs:data="{&quot;newLined&quot;:true}">1</tspan>
+    </text>
+    <circle id="SvgjsCircle1672" r="96" cx="0" cy="2984" stroke-linecap="square" stroke="green" stroke-width="7" fill-opacity="0" data-id="2"></circle>
+    <text id="SvgjsText1673" font-family="Helvetica" fill="#000011" font-size="80" size="80" family="Helvetica" x="-22.87109375" y="2911.03515625" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+      <tspan id="SvgjsTspan1674" dy="104" x="-22.87109375" svgjs:data="{&quot;newLined&quot;:true}">2</tspan>
+    </text>
+    <circle id="SvgjsCircle1675" r="96" cx="0" cy="4624" stroke-linecap="square" stroke="green" stroke-width="7" fill-opacity="0" data-id="5"></circle>
+    <text id="SvgjsText1676" font-family="Helvetica" fill="#000011" font-size="80" size="80" family="Helvetica" x="-22.87109375" y="4551.03515625" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+      <tspan id="SvgjsTspan1677" dy="104" x="-22.87109375" svgjs:data="{&quot;newLined&quot;:true}">5</tspan>
+    </text>
+    <circle id="SvgjsCircle1678" r="96" cx="3752" cy="2984" stroke-linecap="square" stroke="green" stroke-width="7" fill-opacity="0" data-id="8"></circle>
+    <text id="SvgjsText1679" font-family="Helvetica" fill="#000011" font-size="80" size="80" family="Helvetica" x="3729.12890625" y="2911.03515625" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+      <tspan id="SvgjsTspan1680" dy="104" x="3729.12890625" svgjs:data="{&quot;newLined&quot;:true}">8</tspan>
+    </text>
+    <circle id="SvgjsCircle1681" r="96" cx="0" cy="9336" stroke-linecap="square" stroke="green" stroke-width="7" fill-opacity="0" data-id="11"></circle>
+    <text id="SvgjsText1682" font-family="Helvetica" fill="#000011" font-size="80" size="80" family="Helvetica" x="-45.7421875" y="9263.03515625" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+      <tspan id="SvgjsTspan1683" dy="104" x="-45.7421875" svgjs:data="{&quot;newLined&quot;:true}">11</tspan>
+    </text>
+    <circle id="SvgjsCircle1684" r="96" cx="1832" cy="9336" stroke-linecap="square" stroke="green" stroke-width="7" fill-opacity="0" data-id="14"></circle>
+    <text id="SvgjsText1685" font-family="Helvetica" fill="#000011" font-size="80" size="80" family="Helvetica" x="1786.2578125" y="9263.03515625" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+      <tspan id="SvgjsTspan1686" dy="104" x="1786.2578125" svgjs:data="{&quot;newLined&quot;:true}">14</tspan>
+    </text>
+    <circle id="SvgjsCircle1687" r="96" cx="1832" cy="4624" stroke-linecap="square" stroke="green" stroke-width="7" fill-opacity="0" data-id="17"></circle>
+    <text id="SvgjsText1688" font-family="Helvetica" fill="#000011" font-size="80" size="80" family="Helvetica" x="1786.2578125" y="4551.03515625" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+      <tspan id="SvgjsTspan1689" dy="104" x="1786.2578125" svgjs:data="{&quot;newLined&quot;:true}">17</tspan>
+    </text>
+    <circle id="SvgjsCircle1690" r="96" cx="2792" cy="9336" stroke-linecap="square" stroke="green" stroke-width="7" fill-opacity="0" data-id="22"></circle>
+    <text id="SvgjsText1691" font-family="Helvetica" fill="#000011" font-size="80" size="80" family="Helvetica" x="2746.2578125" y="9263.03515625" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+      <tspan id="SvgjsTspan1692" dy="104" x="2746.2578125" svgjs:data="{&quot;newLined&quot;:true}">22</tspan>
+    </text>
+    <circle id="SvgjsCircle1693" r="96" cx="2792" cy="12408" stroke-linecap="square" stroke="green" stroke-width="7" fill-opacity="0" data-id="25"></circle>
+    <text id="SvgjsText1694" font-family="Helvetica" fill="#000011" font-size="80" size="80" family="Helvetica" x="2746.2578125" y="12335.03515625" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+      <tspan id="SvgjsTspan1695" dy="104" x="2746.2578125" svgjs:data="{&quot;newLined&quot;:true}">25</tspan>
+    </text>
+    <circle id="SvgjsCircle1696" r="96" cx="6544" cy="12408" stroke-linecap="square" stroke="green" stroke-width="7" fill-opacity="0" data-id="28"></circle>
+    <text id="SvgjsText1697" font-family="Helvetica" fill="#000011" font-size="80" size="80" family="Helvetica" x="6498.2578125" y="12335.03515625" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+      <tspan id="SvgjsTspan1698" dy="104" x="6498.2578125" svgjs:data="{&quot;newLined&quot;:true}">28</tspan>
+    </text>
+    <circle id="SvgjsCircle1699" r="96" cx="6544" cy="2984" stroke-linecap="square" stroke="green" stroke-width="7" fill-opacity="0" data-id="31"></circle>
+    <text id="SvgjsText1700" font-family="Helvetica" fill="#000011" font-size="80" size="80" family="Helvetica" x="6498.2578125" y="2911.03515625" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+      <tspan id="SvgjsTspan1701" dy="104" x="6498.2578125" svgjs:data="{&quot;newLined&quot;:true}">31</tspan>
+    </text>
+    <circle id="SvgjsCircle1702" r="96" cx="3752" cy="1448" stroke-linecap="square" stroke="green" stroke-width="7" fill-opacity="0" data-id="36"></circle>
+    <text id="SvgjsText1703" font-family="Helvetica" fill="#000011" font-size="80" size="80" family="Helvetica" x="3706.2578125" y="1375.03515625" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+      <tspan id="SvgjsTspan1704" dy="104" x="3706.2578125" svgjs:data="{&quot;newLined&quot;:true}">36</tspan>
+    </text>
+    <circle id="SvgjsCircle1705" r="96" cx="2792" cy="1448" stroke-linecap="square" stroke="green" stroke-width="7" fill-opacity="0" data-id="39"></circle>
+    <text id="SvgjsText1706" font-family="Helvetica" fill="#000011" font-size="80" size="80" family="Helvetica" x="2746.2578125" y="1375.03515625" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+      <tspan id="SvgjsTspan1707" dy="104" x="2746.2578125" svgjs:data="{&quot;newLined&quot;:true}">39</tspan>
+    </text>
+    <circle id="SvgjsCircle1708" r="96" cx="2792" cy="0" stroke-linecap="square" stroke="green" stroke-width="7" fill-opacity="0" data-id="42"></circle>
+    <text id="SvgjsText1709" font-family="Helvetica" fill="#000011" font-size="80" size="80" family="Helvetica" x="2746.2578125" y="-72.96484375" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+      <tspan id="SvgjsTspan1710" dy="104" x="2746.2578125" svgjs:data="{&quot;newLined&quot;:true}">42</tspan>
+    </text>
+  </g>
+</svg>
