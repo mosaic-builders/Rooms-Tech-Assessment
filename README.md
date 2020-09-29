@@ -12,7 +12,7 @@ We hope that you enjoy working through this problem, and hope this exercise prov
 
 We hope that this exercise takes no more than **_90 minutes_**. We want to be respectful of your time, so if you end up working on this project for more than 90 minutes, we encourage you to capture your ideas in a way that you can discuss them with us during the follow-up. 
 
-Your approach and design is more important than the actual outcome of your solution. In that vein, during the interview, we expect you to justify your technical decisions (including alternate considerations you chose not to pursue), explain how you think about the usability and performance of your code, and finally, explain how you would go about testing your code. All that being said, we strongly recommend that you submit something that is runnable.
+Your approach and design is more important than the actual outcome of your solution, although we do strongly recommend that you submit something that is runnable. During the interview, we will ask you to justify your technical decisions (including alternate considerations you chose not to pursue), explain how you think about the usability and performance of your code, and explain how you would test your code. 
 
 Most of our codebase is written in Javascript, but we are language agnostic for the purposes of this interview. However, if you do end up producing executable code, we ask that you provide instructions for installing dependencies (e.g. `yarn`) and running your code (e.g. `yarn start`) on at least one of the examples so that we can reproduce your results.
 
