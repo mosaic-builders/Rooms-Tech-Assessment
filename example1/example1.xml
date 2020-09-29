@@ -6,26 +6,12 @@
   <corner id="14" x="5760" y="-7680"/>
   <corner id="19" x="3840" y="-7680"/>
   <corner id="25" x="0" y="-7680"/>
-  <wall id="3" height="1744" startCorner="1" endCorner="2" material="TWO_BY_SIX" isExterior="true" label="A">
-    <door start="1616" end="2224"/>
-  </wall>
-  <wall id="7" height="1744" startCorner="2" endCorner="6" material="TWO_BY_SIX" isExterior="true" label="B">
-    <window start="488" end="1256" sillHeight="480"/>
-  </wall>
-  <wall id="11" height="1744" startCorner="6" endCorner="10" material="TWO_BY_SIX" isExterior="true" label="C">
-    <door start="568" end="1176"/>
-  </wall>
-  <wall id="15" height="1744" startCorner="10" endCorner="14" material="TWO_BY_SIX" isExterior="true" label="D">
-    <window start="488" end="1256" sillHeight="480"/>
-    <window start="3368" end="4136" sillHeight="480"/>
-  </wall>
-  <wall id="20" height="1744" startCorner="14" endCorner="19" material="TWO_BY_SIX" isExterior="true" label="E"/>
-  <wall id="22" height="1744" startCorner="19" endCorner="6" material="TWO_BY_SIX" isExterior="false" label="F">
-    <door start="2488" end="3096"/>
-  </wall>
-  <wall id="26" height="1744" startCorner="19" endCorner="25" material="TWO_BY_SIX" isExterior="true" label="G"/>
-  <wall id="28" height="1744" startCorner="25" endCorner="1" material="TWO_BY_SIX" isExterior="true" label="H">
-    <window start="1448" end="2216" sillHeight="480"/>
-    <window start="5288" end="6056" sillHeight="480"/>
-  </wall>
+  <wall id="3" label="A" startCorner="1" endCorner="2" isExterior="true"/>
+  <wall id="7" label="B" startCorner="2" endCorner="6" isExterior="true"/>
+  <wall id="11" label="C" startCorner="6" endCorner="10" isExterior="true"/>
+  <wall id="15" label="D" startCorner="10" endCorner="14" isExterior="true"/>
+  <wall id="20" label="E" startCorner="14" endCorner="19" isExterior="true"/>
+  <wall id="22" label="F" startCorner="19" endCorner="6" isExterior="false"/>
+  <wall id="26" label="G" startCorner="19" endCorner="25" isExterior="true"/>
+  <wall id="28" label="H" startCorner="25" endCorner="1" isExterior="true"/>
 </model>
