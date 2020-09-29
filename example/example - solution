@@ -1,0 +1,5 @@
+Rooms for Example 1:
+[
+  [ <corner id="1">, <corner id="2">, <corner id="5">, <corner id="8"> , <corner id="11">, <corner id="1">],
+  [ <corner id="11">, <corner id="14">, <corner id="17">, <corner id="8">, <corner id="11">]
+]
