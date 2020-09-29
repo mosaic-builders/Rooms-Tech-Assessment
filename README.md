@@ -20,7 +20,7 @@ Most of our codebase is written in Javascript, but we are language agnostic for 
 
 We’ve developed an internal data model to represent a typical single family home. You can find an example of this model [here.](https://github.com/mosaic-builders/Rooms-Tech-Assessment/blob/master/model.xml)
 
-As you might expect, a house’s floorplan consists of `walls`, `doors`, and `windows`. We also have an entity to represent the two endpoints of a wall – we call these entities `corners`. Importantly, `corners` can be shared by multiple walls. We’ve provided more detailed descriptions of each entity below. For the purposes of this exercise, you should think of this model as a graph, with `corners` representing nodes, and `walls` representing edges between nodes. We will omit doors and windows for the remainder of the exercise.
+As you might expect, a house’s floorplan consists of `walls`, `doors`, and `windows`. We also have an entity to represent the two endpoints of a wall – we call these entities `corners`. Importantly, `corners` can be shared by multiple walls. We’ve provided more detailed descriptions of each entity below. For the purposes of this exercise, you should think of this model as a graph, with `corners` representing nodes, and `walls` representing edges between nodes. We will omit `doors` and `windows` for the remainder of the exercise.
 
 The problem we would like you to attempt is to find _all enclosed rooms in a model_.  You can look at the [example model and output](https://github.com/mosaic-builders/Rooms-Tech-Assessment/tree/master/example) to get a better understanding. The goal is to find all rooms in [this model](https://github.com/mosaic-builders/Rooms-Tech-Assessment/blob/master/model.xml).
 
