@@ -16,14 +16,14 @@ const canvas = {
   width: 600,
   height: 600,
 };
-const divisor = canvas.width > canvas.height ? canvas.height : canvas.width;
+const containerSize = canvas.width > canvas.height ? canvas.height : canvas.width;
 const scale = 20;
 const offsetY = 100;
 const offsetX = 180;
 const normalizeCorner = (corner) => ({
   ...corner,
-  x: (corner.x / divisor) * scale + offsetX,
-  y: (corner.y / divisor) * scale + offsetY,
+  x: (corner.x / containerSize) * scale + offsetX,
+  y: (corner.y / containerSize) * scale + offsetY,
 });
 
 const enhanceWallWithCorners = (corners) => (wall) => ({
