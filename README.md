@@ -25,9 +25,9 @@ As you might expect, a house’s floorplan consists of `walls`, `doors`, and `wi
 The problem we would like you to attempt is to find _all enclosed rooms in a model_.  You can look at the [example model and output](https://github.com/mosaic-builders/Rooms-Tech-Assessment/tree/master/example) to get a better understanding. The goal is to find all rooms in [this model](https://github.com/mosaic-builders/Rooms-Tech-Assessment/blob/master/model.xml).
 
 There are multiple approaches to solving this problem. We request that for this assignment **_you pick one of the following options:_**
-1. <ins> Option A (algorithm-focused) </ins>: Implement a web-based tool that allows a user to specify the enclosed rooms manually via an interaction with a 2D representation of the model.
+1. <ins> Option A (algorithm-focused) </ins>: Implement a method that finds all enclosed rooms, as described above, when given an input XML model.
 
-2. <ins> Option B (front-end-focused) </ins>: Implement a web-based tool that can i) render a 2D representation of the  XML model, and ii) then allow a user to specify the enclosed rooms manually via an interaction with the 2D representation.
+2. <ins> Option B (front-end-focused) </ins>:  Implement a web-based tool that allows a user to specify the enclosed rooms manually via an interaction with a 2D representation of the model.
 
 For both options, we are looking for a list of rooms for this [input XML model](https://github.com/mosaic-builders/Rooms-Tech-Assessment/blob/master/model.xml). We've visualized this model for you in this [PDF](https://github.com/mosaic-builders/Rooms-Tech-Assessment/blob/master/model.pdf).
 
