@@ -6,11 +6,11 @@ Thank you for your interest in Mosaic! We use this technical assessment to achie
 
 We will be scheduling a follow up interview with Pranav Ramkrishnan (pranav@mosaic.us) to discuss this exercise and your work. Our only request is that you **_submit your work by the end of the business day before your interview._**
 
-We hope that you enjoy working through this problem, and hope this exercise provides you with a glimpse of how we are trying to interweave software engineering concepts into home building.  If at any time you have questions, please do not hesitate to email Max at max@mosaic.us.
+We hope that you enjoy working through this problem, and hope this exercise provides you with a glimpse of how we are trying to interweave software engineering concepts into home building.  If at any time you have questions, please do not hesitate to email Max at max@mosaic.us. 
 
 ## Expectations
 
-We hope that this exercise takes no more than **_90 minutes_**. We want to be respectful of your time, so if you end up working on this project for more than 90 minutes, we encourage you to capture your ideas in a way that you can discuss them with us during the follow-up. 
+We'd like you to spend approximately **_90 minutes_** on this exercise. We want to be respectful of your time, but please feel free to exceed 90 minutes if needed in order to present your best work.
 
 Your approach and design is more important than the actual outcome of your solution, although we do strongly recommend that you submit something that is runnable. During the interview, we will ask you to justify your technical decisions (including alternate considerations you chose not to pursue), explain how you think about the usability and performance of your code, and explain how you would test your code. 
 
