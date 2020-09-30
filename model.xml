@@ -1,32 +1,32 @@
 <model>
   <corner id="1" x="0" y="0"/>
   <corner id="2" x="0" y="2984"/>
-  <corner id="6" x="0" y="4624"/>
-  <corner id="10" x="3752" y="2984"/>
-  <corner id="14" x="0" y="9336"/>
-  <corner id="18" x="1832" y="9336"/>
-  <corner id="23" x="1832" y="4624"/>
-  <corner id="29" x="2792" y="9336"/>
-  <corner id="33" x="2792" y="12408"/>
-  <corner id="37" x="6544" y="12408"/>
-  <corner id="42" x="6544" y="2984"/>
-  <corner id="53" x="3752" y="1448"/>
-  <corner id="56" x="2792" y="1448"/>
-  <corner id="60" x="2792" y="0"/>
+  <corner id="5" x="0" y="4624"/>
+  <corner id="8" x="3752" y="2984"/>
+  <corner id="11" x="0" y="9336"/>
+  <corner id="14" x="1832" y="9336"/>
+  <corner id="17" x="1832" y="4624"/>
+  <corner id="22" x="2792" y="9336"/>
+  <corner id="25" x="2792" y="12408"/>
+  <corner id="28" x="6544" y="12408"/>
+  <corner id="31" x="6544" y="2984"/>
+  <corner id="36" x="3752" y="1448"/>
+  <corner id="39" x="2792" y="1448"/>
+  <corner id="42" x="2792" y="0"/>
   <wall id="3" label="A" startCorner="1" endCorner="2" isExterior="true"/>
-  <wall id="7" label="B" startCorner="2" endCorner="6" isExterior="true"/>
-  <wall id="11" label="C" startCorner="2" endCorner="10" isExterior="false"/>
-  <wall id="15" label="D" startCorner="6" endCorner="14" isExterior="false"/>
-  <wall id="19" label="E" startCorner="14" endCorner="18" isExterior="true"/>
-  <wall id="24" label="F" startCorner="18" endCorner="23" isExterior="false"/>
-  <wall id="27" label="G" startCorner="23" endCorner="6" isExterior="false"/>
-  <wall id="30" label="H" startCorner="18" endCorner="29" isExterior="true"/>
-  <wall id="34" label="I" startCorner="29" endCorner="33" isExterior="true"/>
-  <wall id="38" label="J" startCorner="33" endCorner="37" isExterior="true"/>
-  <wall id="43" label="K" startCorner="37" endCorner="42" isExterior="true"/>
-  <wall id="48" label="L" startCorner="42" endCorner="10" isExterior="true"/>
-  <wall id="54" label="M" startCorner="10" endCorner="53" isExterior="true"/>
-  <wall id="57" label="N" startCorner="53" endCorner="56" isExterior="true"/>
-  <wall id="61" label="O" startCorner="56" endCorner="60" isExterior="true"/>
-  <wall id="63" label="P" startCorner="60" endCorner="1" isExterior="true"/>
+  <wall id="6" label="B" startCorner="2" endCorner="5" isExterior="true"/>
+  <wall id="9" label="C" startCorner="2" endCorner="8" isExterior="false"/>
+  <wall id="12" label="D" startCorner="5" endCorner="11" isExterior="false"/>
+  <wall id="15" label="E" startCorner="11" endCorner="14" isExterior="true"/>
+  <wall id="18" label="F" startCorner="14" endCorner="17" isExterior="false"/>
+  <wall id="20" label="G" startCorner="17" endCorner="5" isExterior="false"/>
+  <wall id="23" label="H" startCorner="14" endCorner="22" isExterior="true"/>
+  <wall id="26" label="I" startCorner="22" endCorner="25" isExterior="true"/>
+  <wall id="29" label="J" startCorner="25" endCorner="28" isExterior="true"/>
+  <wall id="32" label="K" startCorner="28" endCorner="31" isExterior="true"/>
+  <wall id="34" label="L" startCorner="31" endCorner="8" isExterior="true"/>
+  <wall id="37" label="M" startCorner="8" endCorner="36" isExterior="true"/>
+  <wall id="40" label="N" startCorner="36" endCorner="39" isExterior="true"/>
+  <wall id="43" label="O" startCorner="39" endCorner="42" isExterior="true"/>
+  <wall id="45" label="P" startCorner="42" endCorner="1" isExterior="true"/>
 </model>
