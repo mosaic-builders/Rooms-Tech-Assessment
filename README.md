@@ -1,6 +1,6 @@
 # Rooms Tech Assessment
 
-**Getting started**. Look through the example model and solution in the [`example` folder](https://github.com/mosaic-builders/Rooms-Tech-Assessment/tree/master/example) to familiarize yourself with the problem.
+**Getting started**. Look through the example model and solution in the `example/` folder.
 
 **Implement your solution**. And apply it to `model.xml`.
 
